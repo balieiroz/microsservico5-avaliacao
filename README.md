@@ -86,4 +86,5 @@ http://localhost:3000
 ---
 
 Feito com carinho! 💖🚀
+Maria Eduarda Balieiro
 
