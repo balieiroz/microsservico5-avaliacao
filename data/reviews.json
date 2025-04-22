@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "restaurant": "Pizzaria Napoli",
+    "rating": 5,
+    "comment": "Melhor pizza da cidade!",
+    "date": "2025-04-20T18:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "restaurant": "Sushi do Bairro",
+    "rating": 4,
+    "comment": "Muito fresco e saboroso!",
+    "date": "2025-04-21T19:30:00.000Z"
+  },
+  {
+    "id": 1745319598136,
+    "restaurant": "Pizzaria Napoli",
+    "rating": "2",
+    "comment": "Tinha cabelo na pizza!",
+    "date": "2025-04-22T10:59:58.136Z"
+  },
+  {
+    "id": 1745319960349,
+    "restaurant": "Hamburgueria Smash",
+    "rating": "4",
+    "comment": "Hamburguer maravilhoso, pena que tinha muita gordura !",
+    "date": "2025-04-22T11:06:00.349Z"
+  }
+]
